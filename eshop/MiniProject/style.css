@@ -1,0 +1,84 @@
+/*--- page ---*/
+
+body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+}
+
+
+/*--- navigation bar ---*/
+
+.nav {
+    background-color: #3598dc;
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+}
+
+.nav a:hover {
+    background-color: black;
+    color: white;
+}
+
+
+/*--- footer ---*/
+
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+}
+
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}
+
+
+/* --- Mobile phone --- */
+
+.filter {
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px
+} */
+
+.profiles img {
+    margin-right: -6px
+}
+
+.col-md-4 {
+    margin-top: 26px
+}
+
+h2 {
+    color: rebeccapurple;
+}
+
+
+/* button */
+
+.button {
+    color: white;
+    background-color: #2389cd;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    position: relative;
+    left: 50%;
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
